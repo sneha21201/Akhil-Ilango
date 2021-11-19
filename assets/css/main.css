@@ -2076,7 +2076,7 @@ details > p {
 			}
 
 			#main > .panel.intro {
-				padding: 0;
+				padding: 0px;
 				height: 20em;
 				display: -moz-flex;
 				display: -webkit-flex;
