@@ -1971,7 +1971,9 @@ details > p {
 /* Wrapper */
 
 	#wrapper {
+		
 		width: 45em;
+		
 		margin: 0 auto;
 		min-height: 100vh;
 		max-width: 100%;
@@ -2077,7 +2079,8 @@ details > p {
 
 			#main > .panel.intro {
 				padding: 0px;
-				height: 20em;
+				
+				height: 35rem;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
